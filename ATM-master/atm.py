@@ -9,7 +9,7 @@ from tkinter import Tk, Canvas, Entry, Text, Button, PhotoImage
 from tkinter import messagebox
 
 
-current_balance = 1000
+current_balance = 3000
 
 
 class SampleApp(tk.Tk):
